@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SBAR Smart Brain App</string>
+    <string name="facebook_app_id">185699679883232</string>
+    <string name="fb_login_protocol_scheme">fb185699679883232</string>
+</resources>

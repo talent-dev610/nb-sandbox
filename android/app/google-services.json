@@ -1,0 +1,66 @@
+{
+  "project_info": {
+    "project_number": "1022786384184",
+    "project_id": "nursebrain-sandbox",
+    "storage_bucket": "nursebrain-sandbox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022786384184:android:1380d7adb6d7e8ccfc91cd",
+        "android_client_info": {
+          "package_name": "com.nursebrain.sandbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022786384184-9qkpterrijh7uhcvkb0q10gv6rae9dfb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nursebrain.sandbox",
+            "certificate_hash": "d1c55c5ba1a957ae214f1d2b3b883b258887f1aa"
+          }
+        },
+        {
+          "client_id": "1022786384184-niu7ilt1re3m78e1ahvena24qn9r9sbg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nursebrain.sandbox",
+            "certificate_hash": "fb9aa94f37db446e8c4e752f2db090625379ec50"
+          }
+        },
+        {
+          "client_id": "1022786384184-vniciou2fe10gmij5dbegod8fesvkn7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nursebrain.sandbox",
+            "certificate_hash": "9c33c379aa733c18f486bb8e70f7a36219962f8a"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDko0uasLXBSPLH0Hwa9A5hCK2dOXNqlPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022786384184-a8oca90vuimb7p02fgiset73dtppe9sp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1022786384184-5op1ioj6csgv8il9ksd6ivuoo2m9csnh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nursebrain.sandbox"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
